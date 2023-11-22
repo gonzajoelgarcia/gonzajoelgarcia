@@ -1,4 +1,8 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Gonzalo</h1>
+<h3 align="center">I am a Graphic Designer and immersing myself in the Frontend.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gonzajoelgarcia&label=Profile%20views&color=0e75b6&style=flat" alt="gonzajoelgarcia" /> </p>
+
 🔭 I’m currently working on Centinela<br><br>🌱 I’m currently learning even more about JavaScript and React.<br><br>👨‍💻 All of my projects are available at Coming Soon!<br><br>💬 Ask me about HTML & CSS (on Better Design)<br><br>📫 How to reach me gonzajoelgarcia.gg@gmail.com<br><br>📄 Know about my experiences Graphic Design / Frontend Development<br><br>⚡ Fun fact Stack Overflow is the Bible.
 
 
