@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Centinela<br><br>🌱 I’m currently learning even more about JavaScript and React.<br><br>👨‍💻 All of my projects are available at [Coming Soon!](Coming Soon!)<br><br>💬 Ask me about HTML & CSS (on Better Design)<br><br>📫 How to reach me gonzajoelgarcia.gg@gmail.com<br><br>📄 Know about my experiences [Graphic Design / Frontend Development](Graphic Design / Frontend Development)<br><br>⚡ Fun fact Stack Overflow is the Bible.
+🔭 I’m currently working on Centinela<br><br>🌱 I’m currently learning even more about JavaScript and React.<br><br>👨‍💻 All of my projects are available at Coming Soon!<br><br>💬 Ask me about HTML & CSS (on Better Design)<br><br>📫 How to reach me gonzajoelgarcia.gg@gmail.com<br><br>📄 Know about my experiences Graphic Design / Frontend Development<br><br>⚡ Fun fact Stack Overflow is the Bible.
 
 
 ## 🌐 Socials:
