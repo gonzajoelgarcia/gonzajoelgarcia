@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Graphic Design / Frontend Development](Graphic Design / Frontend Development)
 
-- ⚡ Fun fact **Stack Overflow es la Biblia.**
+- ⚡ Fun fact **Stack Overflow is the Bible.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
